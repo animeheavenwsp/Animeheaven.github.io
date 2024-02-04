@@ -33,3 +33,4 @@ My Hero Academia has left an indelible mark on pop culture, spawning a dedicated
 ## Conclusion
 
 Whether you're a seasoned anime fan or just diving into the world of heroes and villains, My Hero Academia offers a captivating experience. With its rich storytelling, diverse characters, and stunning animation, the series has rightfully earned its place among the anime greats. Join the journey of Izuku Midoriya and his friends as they navigate the challenges of hero academia, proving that anyone can be a hero, Quirk or no Quirk.
+![Alt Text] (path/to/your/ deku.jpg)
