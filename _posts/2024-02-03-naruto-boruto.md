@@ -7,15 +7,6 @@ lang: en
 
 # Exploring the World of Naruto and Boruto Anime
 
-<body>
-<html>
-    <h1>My Image</h1>
-    <img src="naruto.jpg" alt="Description of the image">
-
-</body>
-</html>
-
-
 *Naruto* and its sequel, *Boruto: Naruto Next Generations*, have captured the hearts of anime enthusiasts worldwide. From the adventures of the young ninja Naruto Uzumaki to the new generation led by his son, Boruto Uzumaki, these series have become iconic within the anime community.
 
 ## Naruto: A Journey of Growth and Determination
@@ -37,7 +28,4 @@ The legacy of the Hidden Leaf Village is not only about powerful jutsu and epic 
 As we delve into the adventures of Naruto and Boruto, we continue to witness the growth of the Hidden Leaf Village and the legacy of ninjas that transcends generations.
 
 *Explore the ninja world, experience the bonds of friendship, and witness the indomitable spirit of Naruto and Boruto in these unforgettable anime series.*
-
-
-
 
