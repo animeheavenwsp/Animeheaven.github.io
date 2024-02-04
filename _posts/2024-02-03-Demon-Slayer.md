@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unveiling the Epic Journey: A Deep Dive into Demon Slayer Anime
+title: A Deep Dive into Demon Slayer Anime
 date: 2024-02-03
 lang: en
 ---
