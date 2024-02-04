@@ -7,8 +7,6 @@ lang: en
 
 # Attack on Titan: A Journey into the World of Titans and Humanity
 
-![Attack on Titan](image.jpg)
-
 **Introduction**
 
 _Attack on Titan_, also known as _Shingeki no Kyojin_, is a Japanese anime and manga series that has taken the world by storm. Created by Hajime Isayama, the story unfolds in a world where humanity resides within enormous walled cities to protect themselves from gigantic humanoid creatures known as Titans. This article delves into the compelling narrative, complex characters, and the impact that _Attack on Titan_ has had on the anime community.
